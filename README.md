@@ -77,7 +77,9 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 
 # Output : 
 
-<img width="359" height="437" alt="Screenshot 2026-05-28 125528" src="https://github.com/user-attachments/assets/b59bece9-019d-4e14-9d92-25af7f2e5413" />
+<img width="504" height="331" alt="Screenshot 2026-05-28 131519" src="https://github.com/user-attachments/assets/4221e655-ea97-432b-a32d-9aa2a6acce7f" />
+
+
 
 
 # Results :
